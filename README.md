@@ -1,6 +1,6 @@
-# spotifymusic
+
 <h1 align="center" color=" ">
-   quiz-guine-bissau
+  spotifymusic
 </h1>
 
 <p align="center">
@@ -22,7 +22,7 @@
    <img alt="GitHub" src="https://img.shields.io/github/license/issufibadji/quiz-guine-bissau?style=flat-square">
 </p>
 
-![quiz-guine-bissau](https://github.com/issufibadji/quiz-guine-bissau/blob/master/quiz-guine-bissau.png)
+![quiz-guine-bissau](https://github.com/issufibadji/quiz-guine-bissau/blob/master/mp4.png)
 
 ## :book: Sobre
 O **quiz-guine-bissau**
