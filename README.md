@@ -30,7 +30,7 @@ O **quiz-guine-bissau**
 
 ## :cloud: Deploy
 O projeto está hospedado no Github Pages
->https://issufibadji.github.io/quiz-guine-bissau/
+>https://guiguiplayermusic.vercel.app/
 
 ## :rocket: Tecnologias
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
