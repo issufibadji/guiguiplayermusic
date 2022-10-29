@@ -6,9 +6,9 @@
 }
 
 :root {
-    --first-color: hsl(240, 55%, 64%);
-    --second-color: hsl(302, 96%, 60%);
-    --three-color: hsla(221, 90%, 88%, 0.549);
+    --first-color: hsl(125, 76%, 35%);
+    --second-color: hsl(56, 87%, 44%);
+    --three-color: rgba(219, 20, 37, 0.144);
     --five-color: hsl(214, 47%, 15%);
     --white-color: #ffffff;
 }
@@ -16,7 +16,8 @@
 body {
     font-family: "Josefin Sans", sans-serif;
     width: 100%;
-    background-image: linear-gradient( to right bottom, hsl(240, 55%, 64%), hsl(302, 96%, 60%));
+    /*background-image: linear-gradient( to right bottom, hsl(240, 55%, 64%), hsl(302, 96%, 60%));*/
+    background-image: linear-gradient( 25deg, hsl(125, 76%, 35%), hsl(81, 53%, 47%), hsl(56, 87%, 44%), hsl(355, 83%, 47%));
 }
 
 .container {
@@ -71,6 +72,7 @@ h6 {
 .musicbox ul li h3 {
     color: var(--five-color);
     font-weight: 400;
+    text-transform: capitalize;
 }
 
 .hor {
@@ -83,7 +85,7 @@ h6 {
     flex: 1;
     margin: 0.5rem auto;
     text-align: center;
-    border-radius: 8px;
+    border-radius: 10px;
     background-color: var(--three-color);
 }
 
@@ -125,8 +127,8 @@ ul li a:hover {
     border-radius: 50%;
     margin: 2rem auto;
     display: flex;
-    border: 5px solid #b237d8;
-    border-top: 3px solid #5d0374;
+    border: 5px solid #37d83f;
+    border-top: 3px solid #025c16;
 }
 
 .circle2 {
@@ -135,7 +137,7 @@ ul li a:hover {
     background-color: #252629;
     border-radius: 50%;
     border: 3px solid #282529;
-    border-top: 3px solid #b237d8;
+    border-top: 3px solid #09881a;
     align-self: center;
     display: flex;
     margin: auto;
