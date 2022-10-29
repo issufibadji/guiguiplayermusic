@@ -24,12 +24,12 @@ let isPlaying = true
 const songList = [{
             name: "Jose Augusto: Fa Mandinga",
             source: "./assets/music/jose-augusto-fa-mandinga.mp3",
-            cover: "./assets/images/music.webp",
+            cover: "./assets/images/guine.png",
         },
         {
             name: "Jose Augusto: Mama",
             source: "./assets/music/jose-aumento-mama.mp3",
-            cover: "./assets/images/guine.png",
+            cover: "./assets/images/bj.png",
         },
         {
             name: "Dembo: ka ta midido",
@@ -39,7 +39,7 @@ const songList = [{
         {
             name: "Dembo: Sali baba",
             source: "./assets/music/Sali-baba.mp3",
-            cover: "./assets/images/guine.png",
+            cover: "./assets/images/music.webp",
         },
         {
             name: "Americo Gomes: Pobres ",
